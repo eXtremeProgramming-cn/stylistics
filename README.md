@@ -45,6 +45,15 @@ The generated style guide contains:
 
 Every rule uses imperative language ("Use...", "Avoid...", "Prefer...") and includes authentic examples from the source text.
 
+## Applying a Style Guide
+
+To write new text in the extracted style, reference the generated guide in your prompt:
+
+```
+Read the style guide in article.style.md. Following its rules exactly,
+write a 2000-word article about {your topic}.
+```
+
 ## Methodology
 
 The analysis examines texts across 7 levels of language (graphology, phonology, morphology, lexis, grammar/syntax, semantics, pragmatics/discourse) plus transitivity, point of view, foregrounding, and register. The full methodology is included in the skill's reference materials.
