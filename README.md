@@ -63,6 +63,8 @@ write a 2000-word article about {your topic}.
 
 The analysis examines texts across 7 levels of language (graphology, phonology, morphology, lexis, grammar/syntax, semantics, pragmatics/discourse) plus transitivity, point of view, foregrounding, and register. The full methodology is included in the skill's reference materials.
 
+The analytical framework draws on Paul Simpson, *Stylistics: A Resource Book for Students* (Routledge, 2014).
+
 ## License
 
 GPL-3.0
