@@ -11,8 +11,13 @@ npx skills add eXtremeProgramming-cn/stylistics
 Then in your AI client:
 
 ```
-/stylistics extract article.md                          # extract style guide
-Read article.style.md and following its rules exactly,  # apply it
+/stylistics extract article.md
+```
+
+Then apply the style guide to write new text:
+
+```
+Read article.style.md and following its rules exactly,
 write a 2000-word article about {your topic}.
 ```
 
