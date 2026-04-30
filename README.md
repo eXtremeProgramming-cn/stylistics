@@ -11,10 +11,10 @@ npx skills add eXtremeProgramming-cn/stylistics
 Then in your AI client:
 
 ```
-/stylistics extract article.md
+/stylistics extract article.md                          # extract style guide
+Read article.style.md and following its rules exactly,  # apply it
+write a 2000-word article about {your topic}.
 ```
-
-That's it. The agent will analyze the text and produce a prescriptive style guide alongside it.
 
 ## Usage
 
