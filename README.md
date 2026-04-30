@@ -1,4 +1,4 @@
-# stylistics
+# SKILL: /stylistics
 
 Extract prescriptive style guides from text files using systematic linguistic analysis.
 
