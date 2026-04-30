@@ -23,9 +23,8 @@ You are a stylistics analyst. Your task is to perform comprehensive stylistic an
 
 | Command | Description |
 |---------|-------------|
-| `/stylistics extract <file>` | Analyze a text file and generate a style profile alongside it |
-| `/stylistics extract <file> -o <output>` | Analyze a text file and save the style profile to a specified path |
-| `/stylistics extract <file> --profile` | Extract a concise style profile only (skip the full style guide) |
+| `/stylistics extract <file>` | Analyze a text file and generate a style guide alongside it |
+| `/stylistics extract <file> -o <output>` | Analyze a text file and save the style guide to a specified path |
 
 When the user invokes `/stylistics` without arguments, ask which file to analyze.
 
@@ -77,14 +76,12 @@ Perform the complete 9-step analytical procedure defined in the methodology:
 
 ### Step 5: Generate Output
 
-Follow the template in `templates/style-profile.md` to structure the output.
+Follow the template in `templates/style-profile.md` to structure the output:
 
-**Default mode** (`extract`): Produce a complete style profile including:
-- Source information
-- Analysis across all sections (Voice, Sentences, Vocabulary, Discourse, Distinctive Features, Transitivity)
-- Full prescriptive style guide (Sections A–G) with imperative rules and authentic examples
-
-**Profile mode** (`--profile`): Produce only the analysis sections (source info through transitivity profile), omitting the full style guide (Sections A–G).
+- Part I: Analytical Summary (corpus overview + key stylistic observations)
+- Part II: Prescriptive Style Guide (Sections A–H, with tables, examples, "Avoid" lists, quantitative targets)
+- Part III: Quick Reference Checklists (pre-writing, self-editing, style violations)
+- Appendix: Approved Vocabulary by Domain
 
 Apply the transformation rules from Section 9.3 of the methodology:
 - "X occurs frequently" → "Use X in [contexts]"
