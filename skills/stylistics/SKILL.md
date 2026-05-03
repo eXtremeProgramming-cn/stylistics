@@ -40,7 +40,7 @@ When the user invokes `/stylistics` without arguments, ask which file to analyze
 
 Read the following files before beginning analysis:
 
-1. **[references/methodology.md](./references/methodology.md)** — The complete analytical framework covering 7 levels of language, transitivity, point of view, foregrounding, register, and the full style guide generation process (Sections I–X)
+1. **[references/methodology.md](./references/methodology.md)** — The complete analytical framework covering 7 levels of language (with integrated transitivity, point of view, speech representation, and register), foregrounding, and the full style guide generation process
 2. **[templates/style-profile.md](./templates/style-profile.md)** — The output template defining the structure of the style profile
 
 These files are essential. Do not skip this step.
@@ -53,24 +53,22 @@ Read the text through without formal analysis. Note:
 
 ### Step 4: Systematic Analysis
 
-Perform the complete 9-step analytical procedure defined in the methodology:
+Perform the complete 7-step analytical procedure defined in the methodology:
 
 1. Initial reading — impressions noted above
 2. Identify context — genre, purpose, author, audience
-3. **Systematic analysis by level** — all 7 levels:
-   - Graphology (visual features, layout, punctuation)
-   - Phonology (rhythm, sound patterns)
-   - Morphology (word structure, affixation)
-   - Lexis (vocabulary, semantic fields, register, collocations)
-   - Grammar and Syntax (clause structure, sentence types, tense/voice/modality)
-   - Semantics (meaning, ambiguity, presupposition)
-   - Pragmatics and Discourse (speech acts, cohesion, information structure)
-4. Identify foregrounded features — deviations and parallelisms
-5. Transitivity analysis — process types, participant roles, agency patterns
-6. Point of view analysis — focalization, deictic patterns
-7. Integration and interpretation — how features interact across levels
-8. Synthesis — overall stylistic profile and distinctive features
-9. Generate style guide — transform descriptive findings into prescriptive rules
+3. **Systematic analysis by level** — all 7 levels (each level now integrates its related analytical dimensions):
+   - Level 1: Graphology (visual features, layout, punctuation)
+   - Level 2: Phonology (rhythm, sound patterns)
+   - Level 3: Morphology (word structure, affixation)
+   - Level 4: Lexis (vocabulary, semantic fields, register, collocations)
+   - Level 5: Grammar and Syntax (clause structure, sentence types, tense/voice/modality, transitivity, speech representation)
+   - Level 6: Semantics (meaning, ambiguity, presupposition)
+   - Level 7: Pragmatics and Discourse (speech acts, cohesion, information structure, point of view, register)
+4. Identify foregrounded features — deviations and parallelisms across levels
+5. Integration and interpretation — how features interact across levels
+6. Synthesis — overall stylistic profile and distinctive features
+7. Generate style guide — transform descriptive findings into prescriptive rules organized by the same 7 levels
 
 **Do not skip any level of analysis**, even if findings are sparse (e.g., phonology in prose). Document what you observe.
 
@@ -79,11 +77,11 @@ Perform the complete 9-step analytical procedure defined in the methodology:
 Follow the template in `templates/style-profile.md` to structure the output:
 
 - Part I: Analytical Summary (corpus overview + key stylistic observations)
-- Part II: Prescriptive Style Guide (Sections A–H, with tables, examples, "Avoid" lists, quantitative targets)
+- Part II: Prescriptive Style Guide (Levels 1–7, organized by the 7 levels of language)
 - Part III: Quick Reference Checklists (pre-writing, self-editing, style violations)
 - Appendix: Approved Vocabulary by Domain
 
-Apply the transformation rules from Section 9.3 of the methodology:
+Apply the transformation rules from Section 5.3 of the methodology:
 - "X occurs frequently" → "Use X in [contexts]"
 - "X is rare" → "Avoid X except in [contexts]"
 - "X and Y both occur" → "Prefer X for [context A], Y for [context B]"

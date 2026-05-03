@@ -34,15 +34,14 @@ The generated style guide contains:
 
 **Part I: Analytical Summary** — corpus overview and key stylistic observations
 
-**Part II: Prescriptive Style Guide** — actionable rules with authentic examples:
-- **A**: Voice and Stance
-- **B**: Sentence-Level Patterns
-- **C**: Vocabulary and Word Choice
-- **D**: Paragraph and Discourse Structure
-- **E**: Citation and Attribution
-- **F**: Document Structure
-- **G**: Specific Constructions and Phrases
-- **H**: Graphology and Visual Conventions
+**Part II: Prescriptive Style Guide** — actionable rules organized by the 7 levels of language:
+- **Level 1**: Graphology — typography, punctuation, layout
+- **Level 2**: Phonology — rhythm, tempo, sound patterns
+- **Level 3**: Morphology — word formation, nominalization
+- **Level 4**: Lexis — vocabulary, semantic fields, register, collocations
+- **Level 5**: Grammar and Syntax — sentence patterns, transitivity, voice/modality
+- **Level 6**: Semantics — meaning patterns, presupposition, figurative language
+- **Level 7**: Pragmatics and Discourse — stance, cohesion, citation, document structure
 
 **Part III: Quick Reference Checklists** — pre-writing, self-editing, style violations
 
@@ -61,7 +60,7 @@ write a 2000-word article about {your topic}.
 
 ## Methodology
 
-The analysis examines texts across 7 levels of language (graphology, phonology, morphology, lexis, grammar/syntax, semantics, pragmatics/discourse) plus transitivity, point of view, foregrounding, and register. The full methodology is included in the skill's reference materials.
+The analysis examines texts across 7 levels of language (graphology, phonology, morphology, lexis, grammar/syntax, semantics, pragmatics/discourse) with transitivity, point of view, speech representation, and register integrated into the relevant levels. The full methodology is included in the skill's reference materials.
 
 The analytical framework draws on Paul Simpson, *Stylistics: A Resource Book for Students* (Routledge, 2014).
 
